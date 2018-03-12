@@ -1,0 +1,31 @@
+{
+  "errorCode": 0,
+  "errorString": "ok",
+  "hotspots": [
+    {"actions": [{
+          "contentType": "text/html",
+          "label": "Foto 1: Carlos",
+          "uri": "https://github.com/XabiAR/esp/blob/master/esp.jpeg"
+        }
+      ],
+      "anchor": {
+        "geolocation": {
+          "lat": 38.705820,
+          "lon": 0.124308
+        }
+      },
+      "icon": {
+        "url": "https://github.com/XabiAR/esp/blob/master/esp.jpeg"
+      },
+      "id": 1,
+      "text": {
+        "title": "Carlos",
+        "description": "Mi "
+      }
+    }
+  ],
+  "layer": "espifb2",
+  "morePages": false,
+  "nextPageKey": null,
+  "referenceImages": []
+}
