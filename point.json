@@ -10,7 +10,7 @@
         }
       }, 
       "icon": {
-        "url": "https://rawgit.com/XabiAR/esp/master/esp.jpeg"
+        "url": "https://raw.githubusercontent.com/XabiAR/esp/master/esp.jpeg"
       }, 
       "id": 2, 
       "text": {
@@ -23,7 +23,7 @@
         {
           "contentType": "text/html", 
           "label": "Visit our hotspots documentation!", 
-          "uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+          "uri": "https://raw.githubusercontent.com/XabiAR/esp/master/esp.jpeg"
         }
   ], 
   "layer": "pointdim2"
